@@ -1,0 +1,2 @@
+# SocialEarningsRatio
+Social Earnings Ratio
